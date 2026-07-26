@@ -14,7 +14,7 @@ This project is an end-to-end AI system for chest X-ray analysis with:
 > Disclaimer: This tool is AI-assisted and not a medical diagnosis system.
 
 ## Repository
-https://github.com/Deekshithpoleboina/Advanced-AI-Medical-Intelligence-Platform
+https://github.com/Devarakondadurgaprasad/Advanced-AI-Medical-Intelligence-Platform
 
 ## API Endpoints
 - `GET /health`
