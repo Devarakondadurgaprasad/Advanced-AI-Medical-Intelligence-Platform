@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+uploads/
+outputs/gradcam/*
+!outputs/gradcam/.gitkeep
+*.db
+.ipynb_checkpoints/
+.DS_Store
